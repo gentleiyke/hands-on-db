@@ -1,7 +1,3 @@
-# hands-on-db
+# WSDA Music Management SQL Project
 
-All data analytic manipulation
-I decided to take a dive into building a portfolio for my data science training and demo project along the line. Here you will get files from trainings and self projects.
-
---Disclaimer--
-Note that all data are fictitious data and does not represent any real world project carried out either as a standalone or in collaborations.
+This project contains a series of SQL queries to analyse WSDA Music Management data. This project uses SQL queries to extract insights from the WSDA Music Management database. The queries cover aspects such as employee details, customer mailing addresses, invoice categorization, sales aggregation, and specific analyses grouped by city or high-value criteria. Each query is designed to showcase different SQL techniques, such as string concatenation, joins, CASE clauses, and aggregate functions.
